@@ -1,0 +1,1 @@
+hello, on va tenter d'ajouter ce texte avec git init
